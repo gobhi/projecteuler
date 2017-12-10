@@ -1,4 +1,4 @@
-package problems
+package problem
 
 func MultiplesOfThreeAndFive() int {
   // TODO

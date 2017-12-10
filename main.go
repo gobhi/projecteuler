@@ -2,9 +2,9 @@ package main
 
 import (
   "fmt"
-  "github.com/gobhi/projecteuler/problems"
+  "github.com/gobhi/projecteuler/problem"
 )
 
 func main() {
-  fmt.Println(problems.MultiplesOfThreeAndFive())
+  fmt.Println(problem.MultiplesOfThreeAndFive())
 }
