@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-  fmt.Println(problem.MultiplesOfThreeAndFive())
+  fmt.Printf("Problem 1: The sum of all the multiples of 3 or 5 below 1000 is %d.\n", problem.MultiplesOfThreeAndFive())
 }
